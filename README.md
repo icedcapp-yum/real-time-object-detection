@@ -1,11 +1,6 @@
 # RealTime-Object-Detection
 Autonomous human-following robot controlled by bare-hand gestures in crowded indoor environments.
 
-> ✅ GitHub: https://github.com/Si-jeong/RealTime-Object-Detection  
-> ✅ Demo video available below
-
----
-
 ## ✅ Overview
 
 This project aims to **reduce physical workload for nurses** by automating the task of pulling medical carts using a mobile robot.  
@@ -123,13 +118,6 @@ When another person’s hand overlaps:
 ✔ Implemented gesture-based driving control using body + hand skeletons  
 ✔ Data generation, model training & evaluation  
 ✔ Real-time robot integration
-
----
-
-## ✅ Repository
-
-Full code:  
-https://github.com/Si-jeong/RealTime-Object-Detection
 
 ---
 
