@@ -17,14 +17,16 @@ The robot can **identify a specific human target among many people** and follow 
 ## ✅ System Demo
 
 ▶ **Human following + gesture control (demo video)**  
-https://prod-files-secure.s3.us-west-2.amazonaws.com/3931cda4-21ba-40bd-b890-2cc466ab70e1/1406f034-daa8-46a0-a110-6bf0413f06cf/EBRL_%E1%84%83%E1%85%A6%E1%84%86%E1%85%A9.mp4
+
+https://github.com/user-attachments/assets/d12da321-a1bd-4cb9-beb8-44e017ae6723
+
 
 ---
 
 ## ✅ Architecture
 
 <p align="center">
-  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/3931cda4-21ba-40bd-b890-2cc466ab70e1/cb9b5f8e-23ac-418d-9e71-17027b915528/Untitled.png" width="600"/>
+  <img width="649" height="888" alt="EBRL_vis" src="https://github.com/user-attachments/assets/8625237d-289a-4af3-9368-df593040f675" width="600" />
 </p>
 
 The robot:
@@ -111,7 +113,7 @@ When another person’s hand overlaps:
 
 ---
 
-## ✅ My Role
+## ✅ Sijeong's Role
 
 ✔ Project Manager (PM)  
 ✔ Implemented user identification with DeepSORT  
