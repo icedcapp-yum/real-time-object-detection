@@ -12,6 +12,8 @@ The robot can **identify a specific human target among many people** and follow 
 ✔ Recognize the user’s hand pose using skeleton estimation + depth sensing  
 ✔ Toggle robot driving / stop mode with a single hand gesture
 
+<!-- 
+
 ---
 
 ## ✅ System Demo
@@ -20,7 +22,7 @@ The robot can **identify a specific human target among many people** and follow 
 
 https://github.com/user-attachments/assets/d12da321-a1bd-4cb9-beb8-44e017ae6723
 
-
+-->
 ---
 
 ## ✅ Architecture
@@ -111,6 +113,7 @@ When another person’s hand overlaps:
   <img src="https://img.shields.io/badge/Jetson_Xavier-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/> &nbsp
 </p>
 
+<!--
 ---
 
 ## ✅ Sijeong's Role
@@ -120,7 +123,7 @@ When another person’s hand overlaps:
 ✔ Implemented gesture-based driving control using body + hand skeletons  
 ✔ Data generation, model training & evaluation  
 ✔ Real-time robot integration
-
+-->
 ---
 
 ## ✅ Reference Models & Libraries
